@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashin</h1>
 
-<!--
-**A-s-h-i-n/A-s-h-i-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I’m someone who loves computer's and could spent hours infront of it creating something new.
 
-Here are some ideas to get you started:
+- 🤖 Studing Robotics Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📂 All of my CS projects are available at [https://github.com/Ashin-Santhosh](https://github.com/Ashin-Santhosh/)
+- 📂 All of my robotics project are available at [https://github.com/A-s-h-i-n](https://github.com/A-s-h-i-n)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ashin-santhosh-275123226/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png" alt="LinkedIn" height="40" width="40" /></a>
+</p>
